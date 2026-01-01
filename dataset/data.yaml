@@ -1,0 +1,18 @@
+# Blood Cell Detection Dataset Configuration
+# Author: Dr Harry Patria
+# Patria & Co. 2026
+
+# Dataset paths
+path: dataset  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+test: images/test  # test images (relative to 'path')
+
+# Classes
+names:
+  0: RBC
+  1: WBC
+  2: Platelets
+
+# Number of classes
+nc: 3
