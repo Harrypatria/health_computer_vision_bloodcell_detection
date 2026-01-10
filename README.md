@@ -1,5 +1,10 @@
 # Visionary Insights Hub - Patria & Co.
 
+![React](https://img.shields.io/badge/React-18.3-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue)
+![Vite](https://img.shields.io/badge/Vite-5.4-purple)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-teal)
+
 **Empowering Medical Diagnostics with AI**
 
 Welcome to the Visionary Insights Hub, a state-of-the-art computer vision application designed by **Dr Harry Patria** of **Patria & Co.** (2026). This application leverages advanced YOLO models for real-time object detection, specifically tailored for blood cell analysis.
